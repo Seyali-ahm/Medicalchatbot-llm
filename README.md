@@ -1,7 +1,7 @@
 # 🩺 Medical Chatbot LLM (Offline, Llama-Based)
 
 This project is a **medical question-answering chatbot** built with **Flask**, **LangChain**, and **Llama 3** (via Ollama).  
-It can read and understand your **medical PDFs or documents**, store their embeddings locally, and then answer questions based on that knowledge — all **100% offline** and **free** to use (no API keys or cloud services needed).
+It can read and understand your **medical PDFs or documents**, store their embeddings locally, and then answer questions based on that knowledge and **free** to use (no API keys or cloud services needed).
 
 ---
 
