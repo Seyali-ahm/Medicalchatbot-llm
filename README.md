@@ -8,10 +8,10 @@ It can read and understand your **medical PDFs or documents**, store their embed
 ## 🚀 Features
 
 - 📚 **Upload & Index Medical Books:** Reads and splits your medical PDFs into chunks for embedding.  
-- 🧠 **Offline LLM Integration:** Uses **Llama 3** through Ollama locally — no need for OpenAI or AWS.  
+- 🧠 **LLM Integration:** Uses **Llama 3** through Ollama locally — no need for OpenAI or AWS.
+- 🧩 **OpenAI Embeddings:** Requires an OpenAI API key for generating text embeddings.
 - 🗂 **Vector Store (Local):** All embeddings are stored locally in `vector_store.pkl`.  
-- 💬 **Chat Interface:** A Flask-powered web UI for chatting with your offline AI medical assistant.  
-- 🔒 **Completely Free:** No tokens, no billing, no internet dependency once setup.
+- 💬 **Chat Interface:** A simple and responsive web UI for chatting with your medical assistant.  
 
 ---
 
